@@ -3,19 +3,19 @@ Hi, I'm JJakk, a software engineer primarily focused on front-end web developmen
 ## Some of My Projects
 ### Brick Drop
 A minimalist hyper-casual game
-<br/>
+<br/><br/>
 <a href='https://github.com/jak-inventions/brick-drop'>
   <img alt='Brick Drop' src='https://raw.githubusercontent.com/jak-inventions/Brick-Drop/master/icon.png' width='100' height='100'/>
 </a>
 ### ComClicker
 A communal clicker game
-<br/>
+<br/><br/>
 <a href='https://github.com/jak-inventions/comclicker'>
   <img alt='ComClicker' src='https://raw.githubusercontent.com/jak-inventions/ComClicker/master/public/img/icon.png' width='100' height='100'/>
 </a>
 ### FreeXT
 An open-source notes app
-<br/>
+<br/><br/>
 <a href='https://github.com/jak-inventions/freext'>
   <img alt='FreeXT' src='https://raw.githubusercontent.com/jak-inventions/FreeXT/master/www/assets/img/icon.png' width='100' height='100'/>
 </a>
