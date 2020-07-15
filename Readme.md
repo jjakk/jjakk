@@ -3,7 +3,7 @@ Hi, I'm JJakk, a software engineer primarily focused on front-end web developmen
 ## Some of My Projects
 ### Brick Drop
 A minimalist hyper-casual game
-<br/><br/>
+<br/>
 <a href='https://github.com/jak-inventions/brick-drop'>
   <img alt='Brick Drop' src='https://raw.githubusercontent.com/jak-inventions/Brick-Drop/master/icon.png' width='100' height='100'/>
 </a>
