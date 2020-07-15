@@ -13,3 +13,11 @@ A communal clicker game
 An open-source notes app
 <br/>
 <img alt='FreeXT' src='./freext-icon.png' width='100' height='100'/>
+
+
+
+<style>
+img{
+  margin: 10px;
+}
+</style>
