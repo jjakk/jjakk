@@ -4,9 +4,11 @@ Hi, I'm JJakk, a software engineer primarily focused on front-end web developmen
 ### Brick Drop
 A minimalist hyper-casual game
 <img alt='Brick Drop' src='./brick-drop-icon.png' width='100' height='100'/>
+<br/>
 ### ComClicker
 A communal clicker game
 <img alt='ComClicker' src='./comclicker-icon.png' width='100' height='100'/>
+<br/>
 ### FreeXT
 An open-source notes app
 <img alt='FreeXT' src='./freext-icon.png' width='100' height='100'/>
