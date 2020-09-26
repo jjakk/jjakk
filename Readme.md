@@ -1,5 +1,5 @@
 # JJakk
-Hi, I'm JJakk, a software developer primarily focused on front-end web development, and mobile app development.  I work mostly in Javascript, and am proficient in Nodejs, Express, and React.  I'm also the founder of Protos Apps, a small tech startup focused on developing mobile, and web apps.
+Hi, I'm JJakk, a software developer primarily focused on front-end web development, and mobile app development.  I work mostly in Javascript, and am proficient in Express, and React.  I'm also the founder of Protos Apps, a small tech startup focused on developing mobile, and web apps.
 ## Some of My Projects
 ### Brick Drop
 A minimalist hyper-casual game
