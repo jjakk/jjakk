@@ -1,5 +1,5 @@
 I'm John, a software developer primarily focused on front-end app development.  I work mostly in Javascript, and am proficient in Express, and React Native. In addition to coding, I also have an interest in UI Design. In my persuit of develop great software, I've founded Protos Apps, a small tech startup focused on specifically mobile, and web app development.
-## Some of My Projects
+## My Projects
 ### Brick Drop
 A minimalist hyper-casual game
 <br/>
