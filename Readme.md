@@ -18,3 +18,4 @@ The ultra-minimalist, open-source notetaking app
 <a href='https://github.com/protos-apps/FreeXT'>
   <img alt='FreeXT' src='https://raw.githubusercontent.com/protos-apps/FreeXT/master/assets/icon-round.png' width='100' height='100'/>
 </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JJakk&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
