@@ -1,4 +1,4 @@
-I'm John, a software developer primarily focused on front-end app development.  I work mostly in Javascript, and usually develop in the MERN and PERN stacks. In addition to coding, I also have an interest in UI Design.
+I'm John, a software developer primarily focused on front-end app development.  I work mostly in Javascript, and usually develop using the PERN stacks. In addition to coding, I also have an interest in UI Design.
 ## My Projects
 ### Brick Drop
 A minimalist hyper-casual game
