@@ -1,1 +1,1 @@
-I'm John, a full-stack software developer working mostly in Javascript using the PERN stack. I previously worked at Suquehanna International Group (SIG), and I'm currently studying Software Engineering at Drexel University
+I'm John, a software engineering major at Drexel University and co-fouder of Ayoda. I'm a full stack developer, with a focus on front-end work, developing mostly in React and Vue.
