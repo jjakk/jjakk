@@ -1,2 +1,1 @@
 I'm John, a software engineering major at Drexel University currently working at Comcast. I'm a full stack developer, with a focus on front-end engineering. I started with React & Vue, but have learned Angular for work and I'm looking to build more tools in it
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
