@@ -1,1 +1,1 @@
-I'm John, a software engineering major at Drexel University. I'm a full stack developer, with a focus on front-end. My primary proficiencies are in React, Vue, & Angular, but I also have experience in Express, PostgreSQL, & some Django
+I'm John, a software engineer at Vanguard. I'm a full stack developer, with a focus on front-end. My primary proficiencies are in React, Vue, & Angular, but I also have experience in Express, PostgreSQL, & some Django
